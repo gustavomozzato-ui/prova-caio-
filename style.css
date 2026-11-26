@@ -1,0 +1,28 @@
+
+header {
+   background-color: rgba(177, 125, 14, 0.856)  ;
+   height: 150px;
+   padding: 10px 0;
+   }
+   
+
+h3{
+ color: rgb(255, 255, 42);
+ background-color: rgba(189, 0, 0, 0.774);
+}
+ body{
+    background-color: rgba(235, 174, 7, 0.425);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUY4sX99nwptySHoobMSjdV-KHiMlUNsCsXM7wisKBCA&s);
+    text-align: center;
+ }
+
+ img{
+    width: 50px;
+    position: initial;
+    height: 100px ;
+
+ }
+
+   footer{ background-color: rgb(255, 102, 0);
+   
+   }
